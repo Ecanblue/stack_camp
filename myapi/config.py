@@ -2,7 +2,7 @@
 
 Use env var to override
 """
-IMPORT OS
+import os
 DEBUG = True
 SECRET_KEY = "changeme"
 
